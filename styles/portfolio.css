@@ -31,7 +31,7 @@ h2 {
     font-size: 64px;
 }
 
-h4 {
+h3 {
     font-size: 48px;
 }
 
@@ -115,7 +115,7 @@ footer .contact-cta p {
 .hero {
     background: var(--secondary-branding-color);
     text-align: center;
-    padding: 160px 0;
+    padding: 80px 20px;
 }
 .hero p {
     font-size: 36px;
@@ -154,7 +154,7 @@ footer .contact-cta p {
 }
 
 .content-container {
-    padding: 160px 20px;
+    padding: 60px 20px;
 }
 
 .content-container h1 {
@@ -192,10 +192,9 @@ footer .contact-cta p {
         font-size: 44px;
     }
 
-    .hero {
-        padding: 80px 20px;
+    h3 {
+        font-size: 26px;
     }
-
     .project-description{
         padding: 0;
         text-align: center;
